@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practicasBasicaspipes"
+    }
+  },
+  "defaultProject": "practicasBasicaspipes",
+  "cli": {
+    "analytics": "a9306671-336f-4947-91c3-f43d50c6e268"
+  }
 }
